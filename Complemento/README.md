@@ -1,4 +1,4 @@
-Os arquivos mencionados são complementos do projeto principal de implementação do Gerador de Senhas.
+Os arquivos mencionados são complementos do projeto principal de implementação da MegaSena.
 
 Tipos de Arquivos:
 
